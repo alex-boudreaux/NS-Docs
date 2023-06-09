@@ -63,6 +63,3 @@ It should take less than an hour to provision.
 ![Step 11 screenshot](https://images.tango.us/workflows/58dde586-1cd0-4666-b3db-ebec0cd62543/steps/cd364447-ae11-4c0a-b0b4-2731b847ad86/62ab748c-5756-49b5-afb4-1f2c275dfbb0.png?crop=focalpoint&fit=crop&fp-x=0.5000&fp-y=0.5000&w=1200&border=2%2CF4F2F7&border-radius=8%2C8%2C8%2C8&border-radius-inner=8%2C8%2C8%2C8&blend-align=bottom&blend-mode=normal&blend-x=0&blend-w=1200&blend64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmstdjIucG5n&mark-x=277&mark-y=381&m64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL2JsYW5rLnBuZz9tYXNrPWNvcm5lcnMmYm9yZGVyPTQlMkNGRjc0NDImdz04OTYmaD0xNDgmZml0PWNyb3AmY29ybmVyLXJhZGl1cz0xMA%3D%3D)
 
 <br/>
-
-***
-Created with [Tango.us](https://tango.us?utm_source=markdown&utm_medium=markdown&utm_campaign=workflow%20export%20links)

@@ -115,6 +115,3 @@ Go to your Watson Discovery instance
 ![Step 23 screenshot](https://images.tango.us/workflows/1c96b5a8-e4e9-4427-b079-f9d074e325e6/steps/7b856a90-40e8-48ff-9410-5fab3e8421cf/5d5538f7-c533-42ea-9826-9bba26c66cde.png?crop=focalpoint&fit=crop&fp-x=0.9515&fp-y=0.9646&fp-z=4.0000&w=1200&border=2%2CF4F2F7&border-radius=8%2C8%2C8%2C8&border-radius-inner=8%2C8%2C8%2C8&blend-align=bottom&blend-mode=normal&blend-x=0&blend-w=1200&blend64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmstdjIucG5n&mark-x=810&mark-y=508&m64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL2JsYW5rLnBuZz9tYXNrPWNvcm5lcnMmYm9yZGVyPTYlMkNGRjc0NDImdz0zMTYmaD0xNTAmZml0PWNyb3AmY29ybmVyLXJhZGl1cz0xMA%3D%3D)
 
 <br/>
-
-***
-Created with [Tango.us](https://tango.us?utm_source=markdown&utm_medium=markdown&utm_campaign=workflow%20export%20links)

@@ -8,10 +8,13 @@ I used Data, AI & Automation Demobuilder on TechZone to spin up the 3 services w
 
 It has custom code that runs on initialization that will scrape a given URL to provide our Discovery instance with thousands of documents.
 
+You can connect Discovery and NeuralSeek to either the project that the demo builder created or to a Box folder that you can set up in the other tutorial.
+
+\[Creating a new Box Application and Connecting it to Watson Discovery\]
+
 __Creation Date:__ June 8, 2023  
 __Created By:__ Alex Boudreaux  
 [View most recent version of the tutorial on Tango.us](https://app.tango.us/app/workflow/a5fafae1-abe9-4d04-9196-4be39eb9f941?utm_source=markdown&utm_medium=markdown&utm_campaign=workflow%20export%20links)
-
 
 
 
@@ -24,7 +27,7 @@ __Created By:__ Alex Boudreaux
 Go to your Watson Discovery instance.
 
 
-### 1. Click on your Discovery project…
+### 1. Click on your Discovery project, either the one created by the demo builder or the Box project that you can create.
 ![Step 1 screenshot](https://images.tango.us/workflows/a5fafae1-abe9-4d04-9196-4be39eb9f941/steps/92320ec8-e90a-4675-8071-149a0317bd80/ac363fc4-163a-44e5-b78b-69d339689b66.png?crop=focalpoint&fit=crop&fp-x=0.1032&fp-y=0.5074&fp-z=2.0373&w=1200&border=2%2CF4F2F7&border-radius=8%2C8%2C8%2C8&border-radius-inner=8%2C8%2C8%2C8&blend-align=bottom&blend-mode=normal&blend-x=0&blend-w=1200&blend64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL21hZGUtd2l0aC10YW5nby13YXRlcm1hcmstdjIucG5n&mark-x=19&mark-y=218&m64=aHR0cHM6Ly9pbWFnZXMudGFuZ28udXMvc3RhdGljL2JsYW5rLnBuZz9tYXNrPWNvcm5lcnMmYm9yZGVyPTYlMkNGRjc0NDImdz00NjcmaD0yNDQmZml0PWNyb3AmY29ybmVyLXJhZGl1cz0xMA%3D%3D)
 
 
